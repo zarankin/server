@@ -1,11 +1,7 @@
 # server
 small server client program
 
-Assignment 3
-Published on: 18/12/2018
-Due date: 6/1/2019
-Responsible TA’s: Linoy Barel, Matan Drory
-1 General Description
+
 In this assignment you will implement a simple social network server and client. The
 communication between the server and the client(s) will be performed using a binary
 communication protocol. A registered user will be able to follow other users and post
